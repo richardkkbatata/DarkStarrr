@@ -1,0 +1,44 @@
+{
+  "mod_elements": [
+    {
+      "name": "Gaysoubd",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gaysoubd",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/gaygaygyagyagya/procedures/GaysoubdProcedure.java"
+        ],
+        "dependencies": []
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "gaygaygyagyagya",
+    "modName": "gaygaygyagyagya",
+    "version": "1.0.0",
+    "author": "caf3ziin, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "modElementsPackage": "net.mcreator.gaygaygyagyagya"
+  },
+  "mcreatorVersion": 202400452410
+}
