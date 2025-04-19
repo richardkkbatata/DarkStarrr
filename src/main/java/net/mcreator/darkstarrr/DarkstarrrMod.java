@@ -1,4 +1,4 @@
-package net.mcreator.gaygaygyagyagya;
+package net.mcreator.darkstarrr;
 
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
@@ -25,12 +25,12 @@ import java.util.HashMap;
 import java.util.Collection;
 import java.util.ArrayList;
 
-@Mod("gaygaygyagyagya")
-public class GaygaygyagyagyaMod {
-	public static final Logger LOGGER = LogManager.getLogger(GaygaygyagyagyaMod.class);
-	public static final String MODID = "gaygaygyagyagya";
+@Mod("darkstarrr")
+public class DarkstarrrMod {
+	public static final Logger LOGGER = LogManager.getLogger(DarkstarrrMod.class);
+	public static final String MODID = "darkstarrr";
 
-	public GaygaygyagyagyaMod(IEventBus modEventBus) {
+	public DarkstarrrMod(IEventBus modEventBus) {
 		// Start of user code block mod constructor
 		// End of user code block mod constructor
 		NeoForge.EVENT_BUS.register(this);

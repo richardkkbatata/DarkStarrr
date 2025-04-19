@@ -8,7 +8,7 @@
       "registry_name": "gaysoubd",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/gaygaygyagyagya/procedures/GaysoubdProcedure.java"
+          "src/main/java/net/mcreator/darkstarrr/procedures/GaysoubdProcedure.java"
         ],
         "dependencies": []
       }
@@ -26,8 +26,8 @@
     "children": []
   },
   "workspaceSettings": {
-    "modid": "gaygaygyagyagya",
-    "modName": "gaygaygyagyagya",
+    "modid": "darkstarrr",
+    "modName": "DarkStarrr",
     "version": "1.0.0",
     "author": "caf3ziin, MCreator",
     "websiteURL": "https://mcreator.net",
@@ -38,7 +38,8 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "neoforge-1.21.1",
-    "modElementsPackage": "net.mcreator.gaygaygyagyagya"
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.darkstarrr"
   },
   "mcreatorVersion": 202400452410
 }
